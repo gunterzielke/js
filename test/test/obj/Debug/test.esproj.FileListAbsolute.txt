@@ -1,0 +1,1 @@
+C:\sw\js\test\test\obj\Debug\test.esproj.CoreCompileInputs.cache
